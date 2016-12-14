@@ -1,0 +1,5 @@
+hurry.filesize
+numpy
+boto3
+nose
+psutil

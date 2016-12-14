@@ -1,0 +1,16 @@
+../hurry/filesize/__init__.py
+../hurry/filesize/filesize.py
+../hurry/filesize/tests.py
+../hurry/filesize/README.txt
+../hurry/filesize/__init__.pyc
+../hurry/filesize/filesize.pyc
+../hurry/filesize/tests.pyc
+./
+namespace_packages.txt
+requires.txt
+PKG-INFO
+dependency_links.txt
+top_level.txt
+not-zip-safe
+SOURCES.txt
+../hurry.filesize-0.9-py2.7-nspkg.pth

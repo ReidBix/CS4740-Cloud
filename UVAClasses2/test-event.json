@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.fe96c2c9-979f-4a71-b5d2-363a33faca9f",
+    "application": {
+      "applicationId": "amzn1.ask.skill.0eca8550-e80c-45eb-a13d-d60c953581e8"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGIIHIRZHNJSGKD6OYHBG4AOVNFQ3HFKJWHKNVOTQU47BYIM7TCPZW7V5VF7Z3IHAUIMG4YA5E5ZQZG4SI4MHFTWIVRBPTBHXNPHYZCEJ55ISEXXYV55ARZMOSQ42J3EIXYNOBM6L2JXC2RPAWDVL4YCQOMKT5LDCOX65ONB6Z7AX6UHFTXPYEW4W66NO6CALORNYKHWBUSUNNA"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.201d50d6-ebb9-42f1-9cc7-e099b329346d",
+    "locale": "en-US",
+    "timestamp": "2016-11-30T04:23:58Z",
+    "intent": {
+      "name": "WhenMeet",
+      "slots": {
+        "Class": {
+          "name": "Class",
+          "value": "CS 1110"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

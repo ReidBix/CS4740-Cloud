@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml version="1.0.1">
+<category>
+	<pattern>HELLO</pattern>
+	<template>
+		<random>
+		<li>Hi, human !</li>
+		<li>Hello UVA student !</li>
+		</random>
+	</template>
+</category>
+<category>
+	<pattern>WHAT TIME IS IT</pattern>
+	<template>The local time is: <system>date</system></template>
+</category>
+<category>
+	<pattern>HERE COME DAT BOI</pattern>
+	<template>Oh shit, whaddup!</template>
+</category>
+<category>
+	<pattern>HOW ARE YOU</pattern>
+	<template>
+		<random>
+		<li>Great !</li>
+		<li>Terrible !</li>
+		</random>
+	</template>
+</category>
+<category>
+	<pattern>WHEN DOES * MEET</pattern>
+	<template><star/> meets at <system>python when_class.py <star/></system></template>
+</category>
+<category>
+	<pattern>WHERE DOES * MEET</pattern>
+	<template><star/> meets at <system>python where_class.py <star/></system></template>
+</category>
+<category>
+	<pattern>HOW MANY AVAILABLE SEATS IN *</pattern>
+	<template><star/> has <system>python seats_class.py <star/></system> classes still available</template>
+</category>
+<category>
+	<pattern>WHO TEACHES *</pattern>
+	<template><system>python teaches_class.py <star/></system> teaches <star/></template>
+</category>
+</aiml>

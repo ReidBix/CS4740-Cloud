@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.fe96c2c9-979f-4a71-b5d2-363a33faca9f",
+    "application": {
+      "applicationId": "amzn1.ask.skill.0eca8550-e80c-45eb-a13d-d60c953581e8"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGIIHIRZHNJSGKD6OYHBG4AOVNFQ3HFKJWHKNVOTQU47BYIM7TCPZW7V5VF7Z3IHAUIMG4YA5E5ZQZG4SI4MHFTWIVRBPTBHXNPHYZCEJ55ISEXXYV55ARZMOSQ42J3EIXYNOBM6L2JXC2RPAWDVL4YCQOMKT5LDCOX65ONB6Z7AX6UHFTXPYEW4W66NO6CALORNYKHWBUSUNNA"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.d6e797f5-464a-4959-bbf2-7c912f730208",
+    "locale": "en-US",
+    "timestamp": "2016-11-30T04:32:11Z",
+    "intent": {
+      "name": "HowMany",
+      "slots": {
+        "Class": {
+          "name": "Class",
+          "value": "CS 2150"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
